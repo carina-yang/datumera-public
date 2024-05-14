@@ -24,4 +24,4 @@ DatumEra is still a work in process. Here are some features that I intend to add
 Existing parts of DatumEra can also be improved.
 
 - Scalability. The frontend lacks architecture that allows for new pages and components to be easily added on top. A base class for API requests can be created.
-- Efficiency. OpenAI has released a batch API. I need to investigate into this API to see if it can be used. 
+- Efficiency. OpenAI has released a batch API. I need to investigate into this API to see if it can be used to make translating more efficient. 
